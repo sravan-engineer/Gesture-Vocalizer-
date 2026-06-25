@@ -7,7 +7,7 @@ An Arduino-based embedded system that converts hand gestures into text and voice
 > Add your video link here after uploading (see "Adding the Demo Video" section below).
 
 ```
-[Demo Video](PASTE_VIDEO_LINK_HERE)
+[Demo Video](https://github.com/sravan-engineer/Gesture-Vocalizer-/blob/main/prototype%20of%20gesture%20vocalizer.mp)
 ```
 
 ## 📌 Problem Statement
